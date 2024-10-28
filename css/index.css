@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(253, 208, 6);    
+}
+.main{
+    width: 500px;
+    background-color: #fff;
+    border-radius: 50px;
+    margin-top: 05%;
+    margin-left: 100px;
+    text-align: center;
+    float: left ;
+}
+.submit{
+    padding:02px;
+}
+input{
+    border-color: rgb(218, 217, 217);
+    border-radius: 5px;
+    color: black;
+    display: block;
+    padding: 10px 16px;
+    margin: 0 auto;
+    font-size: 20px;
+    width: 48%;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+    /*height: 25px;
+    margin-bottom: 20px;
+    margin-top: 02px;
+    margin-left: 02px;
+    border-radius: 5px;
+    border-color: #fff;    background-image: url(./icons/eye_50px.png);*/
+}
+#entrar{
+    background-color: yellow;
+    border: none;
+    text-align: center;
+}
+#esqueceu{
+    border: none;
+}
+
+.img{
+    height: 77px;
+    margin: 06px;
+}

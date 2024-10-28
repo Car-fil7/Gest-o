@@ -1,0 +1,44 @@
+* {    
+    box-sizing: border-box;
+}/*display: block;*/
+.index{
+    margin-top: auto;
+    /*display: block;*/
+    float: left;
+}
+.menu{
+    margin-left: 30px;
+}
+.card{/**/
+    background-color: rgb(228, 227, 227);
+    margin-left: 230px;
+}
+a{
+    border-radius: 5px;
+    color: black; 
+    padding: 10px 16px;
+    margin: 0 auto;
+    font-size: 20px;
+    width: 48%;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    height: 97px;
+    padding-top: 02%;
+}
+.im{
+    height: 25px;
+}
+.header{
+    display:flex;
+    float: left;
+}
+.notif{
+    margin-left: 880px;
+}
+.ege{
+    border-radius: 30px;
+    height: 50px;
+}
